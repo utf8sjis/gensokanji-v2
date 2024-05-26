@@ -1,0 +1,3 @@
+[submodule "gensokanji-bot"]
+	path = gensokanji-bot
+	url = git@github.com:utf8sjis/gensokanji-bot.git
